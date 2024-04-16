@@ -1,2 +1,2 @@
 # LidarDepthSet
-A dataset for the fusion of low-cost solid-state LiDAR and consumer-grade RGB-D camera depth information.
+LidarDepthSet is the first dataset for the fusion of low-cost solid-state LiDAR and consumer-grade RGB-D camera depth information, with a ground-truth camera field of view (cFOV) coverage of 100% and an effective pixel density greater than 95%. It contains both underground parking lot and the karst cave scenes, representing (semi) structured and unstructured subterranean environments, respectively.
