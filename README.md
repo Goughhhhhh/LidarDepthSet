@@ -7,4 +7,6 @@ LidarDepthSet is the first dataset for the fusion of low-cost solid-state LiDAR 
 The dataset is currently being organized and is coming soon.
 
 # Dataset Structure
-The dataset includes (semi) dense RGB-D camera depth images "depth", sparse LiDAR point clouds "lidar", and sparse LiDAR depth maps "lidar_depth". Additionally,  we also provide timestamp alignment files "associations.txt" for RGB-D camera depth images and LiDAR point clouds, as well as transformation matrices "transformations.txt" for two consecutive frames of point clouds in time series.
+The dataset includes (semi) dense RGB-D camera depth images "depth", sparse LiDAR point clouds "lidar", and sparse LiDAR depth maps "lidar_depth". Additionally,  we also provide timestamp alignment files "associations.txt" for RGB-D camera depth images and LiDAR point clouds, as well as transformation matrices "transformations.txt" for two consecutive frames of point clouds in time series. The dataset structure is shown below.
+
+![image](https://github.com/Goughhhhhh/LidarDepthSet/blob/main/images/structure.png)
